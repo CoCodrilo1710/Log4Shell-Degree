@@ -1,0 +1,4 @@
+./mvnw exec:java -Dexec.mainClass=main.java.Server 
+
+./mvnw package --- daca modific sursa de java
+
